@@ -1,0 +1,6 @@
+# Data files
+thickness_data.npz
+data/
+__pycache__/
+__init__.py
+CLAUDE.md
